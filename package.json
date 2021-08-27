@@ -7,7 +7,7 @@
     "querystring": "^0.2.1",
     "url": "~0.10.1",
     "whatwg-url-without-unicode": "^8.0.0-3",
-    "axios": "^0.21.1",
+    "axios": "^0.21.1"
   },
   "scripts": {
     "clone-and-patch": "npm run clone-node-ytdl-core && npm run apply-patches && npm run copy-to-project-root && npm run copy-to-test-app && npm run clean-temp",
